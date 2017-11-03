@@ -1,0 +1,8 @@
+.idea
+*.pyc
+*.pio
+.ipynb_checkpoints
+*.log
+subs
+weights
+
